@@ -1,0 +1,6 @@
+sceneSetups:
+- path: Assets/33126803_Yunman_Ping_Tech_Art/Tutorials/GAD210Tutorial9_Shaders/Scenes/Tutorial
+    9.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
